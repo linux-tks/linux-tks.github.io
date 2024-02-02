@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: home
 title: Linux-TKS Main Website
 ---
 
-TKS Keep Secrets
+Linux-TKS Home Page
+

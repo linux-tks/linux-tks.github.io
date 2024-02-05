@@ -2,6 +2,7 @@
 layout: post
 title: Milestone 1 hit - The TKS DBus Service Is Alive
 category: announcement
+comments: true
 ---
 
 It looks like the end of year vacationing was a great time for hacking. The

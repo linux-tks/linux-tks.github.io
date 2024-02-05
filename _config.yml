@@ -5,7 +5,7 @@ author:
   name: The Linux-TKS Project
   email: blog@linux-tks.io
 baseurl: ""
-url: www.linux-tks.io
+url: https://linux-tks.io
 lsi: false
 safe: true
 incremental: false
@@ -31,3 +31,6 @@ defaults:
       author: "Valentin Rusu"
 minima:
   skin: dark
+disqus:
+  shortname: linux-tks
+

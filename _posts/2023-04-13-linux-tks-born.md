@@ -2,6 +2,7 @@
 layout: post
 title: Linux-TKS Is Born
 category: announcement
+comments: true
 ---
 
 Password management is a critical task one should perform about daily. As a

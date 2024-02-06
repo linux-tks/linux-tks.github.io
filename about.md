@@ -30,5 +30,8 @@ TKS has a few advantages over other secrets implementations:
 
 ## How can I contribute?
 
-You can find the source code on [GitHub](https://github.com/linux-tks/tks).
+Are you a developer, and do you have time to help? You can find the source code on [GitHub](https://github.com/linux-tks/tks). Take a look a the open issues and send-in your pull requests!
+
+Want to say a big thanks? Please consider donating using the link below, in
+the page footer.
 
